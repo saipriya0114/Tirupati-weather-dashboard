@@ -1,1 +1,4 @@
+API used for tpt-live weather dashboard
 
+https://api.open-meteo.com/v1/forecast?latitude=13.63&longitude=79.42&current_weather=true&hourly=temperature_2m,
+relativehumidity_2m,precipitation,windspeed_10m&timezone=auto
